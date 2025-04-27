@@ -1,5 +1,7 @@
 # Not Grammarly
 
+ ![](https://img.shields.io/badge/-electron-lightgrey) ![](https://img.shields.io/badge/-openai-green) ![](https://img.shields.io/badge/-grammar--checker-orange) ![](https://img.shields.io/badge/-text--refinement-yellow) ![](https://img.shields.io/badge/-llm-purple) ![](https://img.shields.io/badge/-desktop--app-red)
+
 <p align="center">
   <img src="assets/not-grammarly-logo.png" alt="Not Grammarly Logo" width="120">
 </p>
@@ -112,7 +114,3 @@ Cristian Camilo Correa Barrera - [LinkedIn](https://www.linkedin.com/in/cristian
 
 If you find this project useful, consider buying me a coffee:
 https://buymeacoffee.com/camilocbarrera
-
----
-
-Tags: `vibecoding`, `electron`, `openai`, `grammar-checker`, `text-refinement`, `llm`, `desktop-app`, `developer-tools` 
